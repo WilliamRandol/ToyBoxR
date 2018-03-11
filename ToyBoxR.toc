@@ -1,0 +1,15 @@
+## Interface: 73500
+## Author: WilliamRandol
+## Title: ToyBoxR
+## Notes: ToyBoxR
+## Version: 1.0
+## SavedVariables: ToyBoxRDB
+## OptionalDeps: Ace3, LibDataBroker-1.1
+## X-Embeds: Ace3
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+ToyBoxR.lua
+Toy.lua
+Broker.lua
